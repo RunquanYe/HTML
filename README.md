@@ -12,7 +12,7 @@ This repository is for some of my representative web projects
 ## CountryCaptialWeather
 This is a normal HTML CSS JavaScript project
 
-<img align="center" width="600" height="300" src="https://github.com/RunquanYe/DemoProjects/blob/main/JavaScript/img/1.jpg"/>
+<img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
 
 + ### Spotlight:
     - ###### Input TextField add key listener
@@ -25,8 +25,8 @@ This is a normal HTML CSS JavaScript project
 ## Budget-List
 This is a VueJS web application project
 
-<img align="center" width="700" height="300" src="https://github.com/RunquanYe/DemoProjects/blob/main/VueJS/img/3.jpg"/>
-<img align="center" width="700" height="300" src="https://github.com/RunquanYe/DemoProjects/blob/main/VueJS/img/9.jpg"/>
+<img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/>
+<img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_9.jpg"/>
 
 + ### How to run:
     - ###### Nevigate your terminal or powershell inside the VueJS project folder
