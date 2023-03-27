@@ -14,7 +14,7 @@ This is a VueJS web application project
     - ###### See the project on your brower --> with the web address: http://localhost:8080/
     - ###### Login into the application --> you can use the Email:"test@gmail.com" Password:"123456" or just fill up the vaild form email address string and 6 digit password then Click the "SignUp" button. 
     
-+ ### Budget-List:
++ ### Spotlight:
     - ###### Input TextField hint effect
     - ###### Input TextField hook up with list selector
     - ###### Input TextField hook up with calendar selector

@@ -2,14 +2,14 @@
 This repository is for some of my representative web projects 
 
 ### 1.Normal HTML Web Projects
-+ [Country Captial Weather](#CountryCaptialWeather)
++ [Country Captial Weather](#Country-Captial-Weather)
 
 ### 2.Vue Web Projects
 + [Budget List](#Budget-List)
 
 ---
 
-## CountryCaptialWeather
+## Country Captial Weather
 This is a normal HTML CSS JavaScript project
 
 <img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
@@ -22,7 +22,7 @@ This is a normal HTML CSS JavaScript project
     - ###### Use two different APIs to get countries' infor, flag, and their capticals' weather report
 
 
-## Budget-List
+## Budget List
 This is a VueJS web application project
 
 <img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/>
@@ -38,7 +38,7 @@ This is a VueJS web application project
     - ###### See the project on your brower --> with the web address: http://localhost:8080/
     - ###### Login into the application --> you can use the Email:"test@gmail.com" Password:"123456" or just fill up the vaild form email address string and 6 digit password then Click the "SignUp" button. 
     
-+ ### Budget-List:
++ ### Spotlight:
     - ###### Input TextField hint effect
     - ###### Input TextField hook up with list selector
     - ###### Input TextField hook up with calendar selector
