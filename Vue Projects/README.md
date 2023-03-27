@@ -1,4 +1,4 @@
-# Budget-List
+# Budget List
 This is a VueJS web application project
 
 <img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/>

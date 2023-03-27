@@ -1,5 +1,5 @@
 
-# CountryCaptialWeather
+# Country Captial Weather
 This is a normal HTML CSS JavaScript project
 
 <img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
