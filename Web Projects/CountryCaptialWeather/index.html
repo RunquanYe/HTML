@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="stylesheet.css" />
+    <title>Runquan Ye's JavaScript API Plugin Demo</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div id="titleArea"><h1>Runquan Ye</h1></div>
+      <div id="contectArea">
+        <div>
+          <h3 class="master">Master Table:</h3>
+          <table id="controlTable"></table>
+        </div>
+        <div class="detail">
+          <h3>
+            Detail Table:
+          </h3>
+           <h5 id="note">
+             You need to double clike the row of the target country to get the weather report.
+             </br>Weather report for the capital city in 3 hours apart.
+             <h5>
+          <table id="detailTable"></table>
+        </div>
+      </div>
+      <div id="controlArea">
+        <div class="input">
+          <label for="inputText"
+            >Input Region(Africa, Americas, Asia, Europe)</label
+          >
+          <input id="textInput" type="text" min="12" />
+          <button id="goBtn">Go</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="plugin.js"></script>
+  </body>
+</html>
