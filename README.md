@@ -1,4 +1,4 @@
-# DemoProjects
+# HTML Projects
 This repository is for some of my representative web projects 
 
 ### 1.Normal HTML Web Projects
