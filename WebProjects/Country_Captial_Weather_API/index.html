@@ -27,13 +27,26 @@
         </div>
       </div>
       <div id="controlArea">
-        <div class="input">
-          <label for="inputText">Region:</label>
-          <input id="textInput" placeholder='Africa, Americas, Asia, Europe' type="text" min="12" />
-          <button id="goBtn">Go</button>
-        </div>
+
+          <fieldset>
+            <legend>Region Countries</legend>
+            <label for="inputText">Continent:</label>
+            <!-- <input id="textInput" name="continent" placeholder='Africa, Americas, Asia, Europe' type="text"/> -->
+
+            <select name="continent" id="continentSelect">
+              <option value="Asia">Asia</option>
+              <option value="Africa">Africa</option>
+              <option value="Americas">Americas</option>
+              <option value="Europe">Europe</option>
+            </select>
+
+            <div class="btn-container">
+              <button class="btn" id="goBtn">Go</button>
+            </div>
+          </fieldset>
       </div>
     </div>
+
 
     <script src="plugin.js"></script>
   </body>

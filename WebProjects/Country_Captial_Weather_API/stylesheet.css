@@ -85,24 +85,54 @@ tr.isSelected {
   font-style: italic;
 }
 
+
+
+fieldset{
+  margin: 0.7rem;
+}
+
+legend {
+  background-color: #000;
+  color: #fff;
+  padding: 3px 6px;
+}
+
+
+label,
+select {
+  margin-top: 1.5rem;
+}
+
+select {
+  margin-left: 3rem;
+}
+
 label {
-  margin: 1rem;
-  font: 18px bold;
+  margin-left: 1.25rem;
+  display: inline;
+  font: 16px bold;
   font-weight: 3em;
-  display: inline-block;
+  width: auto;
 }
 
-#textInput {
+.btn-container {
+  text-align: center;
+  margin-top: 1.25rem;
+}
+.btn {
+  width: 210px;
+  border: 1px solid #3498db;
+  background: none;
+  padding: .2rem 1rem;
+  font: 16px solid bold;
+  font-family: "montserrat";
+  cursor: pointer;
   
-  display: inline-block;
-  width: max-content;
-}
-
-button {
-  background: lightblue;
-  border: 2px solid black;
+  transition: 0.4s;
+  position: relative;
+  overflow: hidden;
   border-radius: 0.5em;
-}
+} 
 
 button:hover{
   background: #03A64A;

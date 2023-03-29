@@ -1,5 +1,5 @@
 const goBotton = document.getElementById("goBtn");
-const textInputBox = document.getElementById("textInput");
+const continentSelector = document.getElementById("continentSelect");
 const controlTable = document.getElementById("controlTable");
 const detailTable = document.getElementById("detailTable");
 
@@ -51,7 +51,7 @@ function getRegionCaptials(){
   for (x of control) {
     document.querySelector("#controlTable").removeChild(x);
   }
-  fetch(`https://restcountries.com/v3.1/region/${textInputBox.value}`)
+  fetch(`https://restcountries.com/v3.1/region/${continentSelector.value}`)
     .then(r => r.json())
     .then(d => {
       let out = d.filter(
@@ -183,9 +183,4 @@ function getWeather(targetCity){
 
 
 goBotton.addEventListener("click", ev => getRegionCaptials());
-textInputBox.addEventListener('keydown', function(event) {
-  // To add a key listener to a button in JavaScript that listens for the "Enter" key (key code 13)
-  if (event.keyCode === 13) {
-    getRegionCaptials();
-  }
-});
+getRegionCaptials();
