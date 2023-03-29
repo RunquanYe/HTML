@@ -15,7 +15,7 @@ body {
   grid-column-start: 1;
   grid-column-end: 3;
   text-align: center;
-  background: hsl(350, 92%, 81%);
+  background: #FCE8CC;
 }
 
 #contectArea {
@@ -24,11 +24,11 @@ body {
   grid-column-template: (auto, auto);
   grid-row-template: 1fr;
   grid-gap: 0.5em;
-  background: hsl(60, 92%, 81%);
+  background: #DDFCCC;
 }
 
 #controlArea {
-  background: hsl(310, 87%, 67%);
+  background: #CCEAFC;
 }
 
 .master {
@@ -41,20 +41,20 @@ body {
   grid-column-end: 3;
 }
 
-.input,
-.result {
-  display: flex;
-  justify-content: center;
-}
 
 table {
+  margin: 0.5rem;
   font: Times, medium;
   border-collapse: collapse;
 }
 
-td,
-th {
-  border: 2px solid green;
+thead{
+  font: 18px bold;
+  background-color: #A67458;
+}
+
+th,td {
+  border: 2px solid black;
   text-align: center;
   padding: 8px;
   font: Times, medium, bold;
@@ -64,26 +64,20 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
+tr:hover {
+  background-color: #FDF4E7;
+}
+
+tr.isSelected {
+  background-color: #AAECFC;
+}
+
 .hide {
   display: none;
 }
 
-select[multiple] {
-  font-size: 18px;
-  background: white;
-  height: auto;
-  padding: 8px;
-  margin-left: 1.5em;
-  margin-top: -1em;
-  border: 2px solid black;
-  color: red;
-  border-radius: 0.5em;
-}
-
-button {
-  background: lightblue;
-  border: 2px solid blue;
-  border-radius: 0.5em;
+#controlTable{
+  margin-top: 3.8rem;
 }
 
 #note{
@@ -91,8 +85,27 @@ button {
   font-style: italic;
 }
 
-input {
-  width: auto;
+label {
+  margin: 1rem;
+  font: 18px bold;
+  font-weight: 3em;
+  display: inline-block;
+}
+
+#textInput {
+  
+  display: inline-block;
+  width: max-content;
+}
+
+button {
+  background: lightblue;
+  border: 2px solid black;
+  border-radius: 0.5em;
+}
+
+button:hover{
+  background: #03A64A;
 }
 
 @media (max-width: 300px) {
