@@ -2,14 +2,14 @@
 This repository is for some of my representative web projects 
 
 ### 1.Normal HTML Web Projects
-+ [Country Captial Weather](#Country-Captial-Weather)
++ [Country Captial Weather API](#Country-Captial-Weather-API)
 
 ### 2.Vue Web Projects
 + [Budget List](#Budget-List)
 
 ---
 
-## [Country Captial Weather](https://github.com/RunquanYe/HTML/tree/main/Web%20Projects)
+## [Country Captial Weather API](https://github.com/RunquanYe/HTML/tree/main/Web%20Projects)
 This is a normal HTML CSS JavaScript project
 
 <img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
