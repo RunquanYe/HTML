@@ -12,15 +12,15 @@ This repository is for some of my representative web projects
 ## [Country Captial Weather API](https://github.com/RunquanYe/HTML/tree/main/WebProjects)
 This is a web project using HTML, CSS, and JavaScript. The project uses multiple APIs to get all the countries from the selected continent and display the countries' names, flags, capital cities, and the recent weather report of the capital cities.
 
-<img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
+<p align="center"><img width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/></p>
 
 ---
 
 ## [Budget List](https://github.com/RunquanYe/HTML/tree/main/VueProjects)
 This is a VueJS web application project
 
-<img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/>
-<img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_9.jpg"/>
+<p align="center"><img width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/></p>
+<p align="center"><img width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_9.jpg"/></p>
 
 + ### How to run:
     - ###### Nevigate your terminal or powershell inside the VueJS project folder
