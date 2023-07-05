@@ -1,10 +1,16 @@
-# HTML Projects
+# HTML
+---
+
+Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
+
+---
+## HTML Projects
 This repository is for some of my representative web projects 
 
-### 1.Normal HTML Web Projects
+### 1. HTML Web Projects
 + [Country Captial Weather API](#Country-Captial-Weather-API)
 
-### 2.Vue Web Projects
+### 2. Vue Web Projects
 + [Budget List](#Budget-List)
 
 ---
