@@ -4,7 +4,7 @@
 Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
 
 ---
-## HTML Projects
+## My HTML Projects
 This repository is for some of my representative web projects 
 
 ### 1. HTML Web Projects
