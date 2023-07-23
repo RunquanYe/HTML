@@ -8,7 +8,7 @@ Hello, 😄, to see more of my projects in other languages, please take a look a
 This repository is for some of my representative web projects 
 
 ### 1. HTML Web Projects
-+ [Country Captial Weather API](#country-captialweather-api)
++ [Country Captial Weather API](#country-captial-weather-api)
 
 ### 2. Vue Web Projects
 + [Budget List](#budget-list)
